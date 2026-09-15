@@ -1,0 +1,10 @@
+{
+  "topic": "How beginners can make their first GitHub repo",
+  "audience": "students learning to code",
+  "tone": "friendly and clear",
+  "github_repo": "octocat/Hello-World",
+  "youtube_query": "first github repository tutorial",
+  "x_query": "github for beginners",
+  "instagram_angle": "3-step carousel for first repo",
+  "platforms": ["github", "youtube", "x", "instagram"]
+}
